@@ -25,3 +25,4 @@ Both visual indicators and tooltips include all consequences from your choice un
 * Mod was not tested on a full playthrough yet
 
 ## Download
+https://github.com/saerielle/PreviewEverything/releases
